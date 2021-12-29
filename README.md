@@ -4,7 +4,7 @@
 
 <!-- [![baraegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=baraegh)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔭 I’m currently working on cursus42 projects
+- 🔭 I’m currently working on 42cursus projects
 - 🌱 I’m currently learning js/ts
 
 <!--
