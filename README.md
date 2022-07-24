@@ -4,7 +4,7 @@
 
 <!-- [![baraegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=baraegh)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔭 I’m currently working on Cub3d ([42cursus](https://github.com/baraegh/cursus42) projects)
+- 🔭 I’m currently working on [Cub3d](https://github.com/baraegh/Cub3D) ([42cursus](https://github.com/baraegh/cursus42) projects)
 <!--
 **baraegh/baraegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
