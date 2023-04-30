@@ -4,7 +4,7 @@
 
 <!-- [![baraegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=baraegh)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔭 I’m currently working on [ft_containers](https://github.com/baraegh/ft_containers) ([42cursus](https://github.com/baraegh/cursus42) projects)
+- 🔭 I’m currently working on [ft_transcendence](#) ([42cursus](https://github.com/baraegh/cursus42) projects)
 
 Project I had collaborated on:
   - [Webserv](https://github.com/rimney/WebServ)
