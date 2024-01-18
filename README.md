@@ -4,8 +4,7 @@
 
 <!-- [![baraegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=baraegh)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔭 I’m currently improving my skills in: Nodejs, Js, Ts, React.js, ExpressJs, Nest.js
-
+- 🔭 I’m currently improving my skills in: Java, Spring boot, GraphQl, MongoDB, kubernetes
 Project I had collaborated on:
   - [Webserv](https://github.com/rimney/WebServ)
 <!--
